@@ -6,6 +6,13 @@ This is a simple weather mobile application built using Flutter. It allows users
 
 - Current weather conditions including temperature, humidity, wind speed, etc.
 - Search functionality to find weather information for specific locations.
+### main page
+<img src="screenweather/Screenshot 2024-04-11 045641.png">
+
+###  search result page
+
+<img src="screenweather/Screenshot 2024-04-11 045736.png">
+
 
 ## Installation
 
